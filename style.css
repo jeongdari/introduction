@@ -1,4 +1,3 @@
-<style>
         body{margin:0;
             background-color: rgb(227, 235, 243);
         }        
@@ -11,7 +10,7 @@
     padding:20px;    
     }
     #grid ol{border-right:1px solid gray;
-        width:200px;
+        width:100%;
         margin:0;
         padding:20px;    
     }
@@ -31,4 +30,3 @@
         #article{display:block;}
         h1{border-bottom:none}
     }
-    </style>
